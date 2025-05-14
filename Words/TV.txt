@@ -1,3 +1,7 @@
+#超兽武装
+Ultra Beast ForceⅡ => {[tmdbid=104609;type=tv;s=2]}
+
+#========以上识别词由 myderr 添加========#
 #猎冰
 The.Hunter.S01(?=.*(?:2024)) => 猎冰.The.Hunter.2024.S01
 
